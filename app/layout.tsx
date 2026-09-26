@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Oladunni Art Fellowship | LMS',description:'Learning management system for Oladunni Art Fellowship'}; export default function RootLayout({children}:{children:React.ReactNode}){return <>{children}</>}
