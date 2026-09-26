@@ -1,0 +1,1 @@
+import { createBrowserClient } from '@supabase/ssr'; export function supabaseBrowser(){return createBrowserClient('https://zrptzwzmvkljuynvqptl.supabase.co','sb_publishable_4--TNL_V53jcsJNWaZCRMg_RLaYPced')}
